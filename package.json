@@ -1,8 +1,8 @@
 {
-"name": "PRINCEAI",
+"name": "MYSTICAI",
 "version": "2.9.7", 
 "homepage": ".",
-"description": "A Muslim WhatsApp User Bot",
+"description": "A WhatsApp Bot",
 "main": "index.js",
 "type": "module",
     
